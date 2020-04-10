@@ -13,7 +13,7 @@ server.use('/actions', actionRouter);
 
 // Routes
 server.get('/', (req, res) => {
-  res.send(`Hello world!`);
+  res.send(`What it do baaabyyyyy?`);
 });
 
 // Server export
